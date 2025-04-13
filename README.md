@@ -28,11 +28,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,vscode,git&theme=dark" />
 </p>
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-![Linux enjoyer](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Energy drinks](https://img.shields.io/badge/-Energy%20Drinks-333?style=flat)
-
 ---
 
 ## stats zone:
@@ -52,7 +47,7 @@
 
 ## current mood:
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJqZWRjZW80YmUycmY5dTVra3pjaGdwbTZ3ZmR0dDN5ZWJmOGs1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A75RyXVzzSI2bx4Gj/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljaWFhODB0OGJkNHA1MW15N2JrbzQ5Mjg0bDQyd2V2ZGExY2h0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -63,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvcXRtbjgwOGpqMHY5ZXFpdmthdXE1dmJpZ2g3a3p6bTVoM3pydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxf1d1iuK7evxAvm/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvcXRtbjgwOGpqMHY5ZXFpdmthdXE1dmJpZ2g3a3p6bTVoM3pydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxf1d1iuK7evxAvm/giphy.gif" width="200"/>
 </p>
 
 ---
