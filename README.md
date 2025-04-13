@@ -1,7 +1,7 @@
 <h1 align="center">Hey there </h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl0b2hnd25qZGNhMXBpc2xjaWhnYXgzcjhwNHE1d2Vlem9jcTNxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLOl2tSYNSZM0KnpcE/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ0Zjl0cmNhdnN4OHdhenUwMWdxamRzMDVwbngyeDE0a3JpZHJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="300"/>
 </p>
 
 ---
