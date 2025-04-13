@@ -12,14 +12,12 @@
 
 ---
 
-### 🧠 About me:
-> "Writing code at 3AM is an elite sport."
-
-- 🔮 CS student trying to survive
-- 🐍 Python enjoyer (obviously)
-- ☕ Coffee powered human
-- ✨ Purple vibes enthusiast
-- 🧩 Always building random stuff for fun
+### About me:
+- Computer Science student
+- Interested in development and systems programming
+- Learning new technologies and improving skills every day
+- Writing code, solving problems, building things
+- Usually working late at night or early morning
 
 ---
 
