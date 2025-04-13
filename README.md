@@ -47,7 +47,7 @@
 
 ## current mood:
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljaWFhODB0OGJkNHA1MW15N2JrbzQ5Mjg0bDQyd2V2ZGExY2h0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljaWFhODB0OGJkNHA1MW15N2JrbzQ5Mjg0bDQyd2V2ZGExY2h0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvcXRtbjgwOGpqMHY5ZXFpdmthdXE1dmJpZ2g3a3p6bTVoM3pydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxf1d1iuK7evxAvm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvcXRtbjgwOGpqMHY5ZXFpdmthdXE1dmJpZ2g3a3p6bTVoM3pydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxf1d1iuK7evxAvm/giphy.gif" width="300"/>
 </p>
 
 ---
