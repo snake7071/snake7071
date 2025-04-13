@@ -52,18 +52,3 @@
 
 ### 📌 Random quote:
 > *"Code never lies, comments sometimes do."*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvcXRtbjgwOGpqMHY5ZXFpdmthdXE1dmJpZ2g3a3p6bTVoM3pydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxf1d1iuK7evxAvm/giphy.gif" width="300"/>
-</p>
-
----
-
-### 🐍 Wanna stalk me more?
-- Look around, I hide my cursed code everywhere here.
-
----
-
-> *PS: If you see me commit at 4AM... send coffee.*
