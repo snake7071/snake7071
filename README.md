@@ -90,13 +90,15 @@ Available for remote projects. Async-friendly, fast turnaround, multilingual (EN
 </p>
 
 ---
-
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-365%20days-brightgreen?style=for-the-badge&logo=github" />
+  <br/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-365%20days-success?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-2.5k%20(in%20last%20year)-blue?style=for-the-badge" />
 </p>
-
 ---
 
 ## 🌐 Languages
