@@ -73,12 +73,20 @@ Available for remote projects. Async-friendly, fast turnaround, multilingual (EN
 | 🔒 **Basic security hardening** | Firewall rules, secure configs, audit checklists for small servers |
 
 ---
-
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-2.8k-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-19-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-45-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-78-lightgrey?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-82%25-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-12%25-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML/CSS-4%25-E34F26?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Shell-2%25-4EAA25?style=flat-square&logo=gnu-bash" />
 </p>
 
 ---
