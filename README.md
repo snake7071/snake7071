@@ -55,29 +55,32 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 - Gained hands-on experience with Linux system administration and network diagnostics
 - Assisted in configuring services and performing routine maintenance tasks
 
-### Crew Member | McDonald's | *September 2025 – December 2025*
-
-- Operated efficiently in a high-pressure, fast-paced environment with strict quality standards
-- Developed strong multitasking, time management, and teamwork skills
-- Maintained consistent performance across food preparation and customer service workflows
 
 ## Projects
 
-### Cat-Themed Greeting Website
-- Custom HTML/CSS/JS interactive web experience with animated elements
-- CSS-drawn cat logo with GIF fallback, animated icon burst button, floating side elements
-- Video popup integration and layered CSS animations
-- Fully responsive design with custom background and asset management
+### GitHub Stats Dashboard *(Python · FastAPI · React · Recharts)*
+Enter a GitHub username — get full analytics: languages, activity, top repos, contribution patterns. Visualized in the browser via REST API.
 
-### AI-Powered Automation Tools *(Python)*
-- Scripts integrating OpenAI / Claude API for task automation and workflow enhancement
-- CLI tools for data processing, parsing, and automated reporting
-- Lightweight bots and notification pipelines using Python + Bash
+### Local AI Agent with Tools *(Python · Ollama / Claude API · Tool calling)*
+An agent with a toolset: web search, file operations, code execution, email sending. Chained tool calls with no external SaaS dependency.
 
-### Database Schema Design Projects
-- Designed relational schemas using ER and Extended ER modeling
-- Applied normalization, weak entities, generalization/specialization hierarchies
-- Implemented and queried databases using MySQL and PostgreSQL
+### RAG Chatbot for PDF Documents *(Python · FastAPI · LangChain · ChromaDB · OpenAI API)*
+Upload a PDF — ask questions about its contents. Chunking, embeddings, vector search, answers via LLM. Works with any technical documentation.
+
+### Infrastructure Monitor with Alerts *(Prometheus · Grafana · Docker Compose · Telegram Bot API)*
+Monitors CPU, RAM, disk, and latency across servers. Sends Telegram alerts on issues. Deployed with Docker Compose in one command.
+
+### CLI Security Audit Tool *(Python · nmap · requests · Rich CLI)*
+Command-line tool that checks a site for open ports, weak headers, vulnerable dependencies, and SSL issues. Generates an HTML report.
+
+### CI/CD Template with Zero-Downtime Deploy *(GitHub Actions · Docker · Nginx · bash)*
+Ready-made GitHub Actions workflow: tests → lint → Docker build → push → blue-green deploy on VPS. Rollback in one command. Reusable template.
+
+### Habit Tracker with GitHub Graph *(Node.js · React · PostgreSQL · Chart.js)*
+Habit tracker with activity visualization styled like a GitHub contribution graph. REST API, JWT auth, statistics dashboard.
+
+### Open-Source Link Shortener *(Next.js · PostgreSQL · Prisma · Auth.js)*
+Link shortener with click analytics, QR codes, custom domains, and dashboard. Full CRUD, authorization, deployed and live.
 
 ## Freelance Services
 
