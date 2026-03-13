@@ -1,106 +1,124 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Sviat 👋</h1>
+# Sviatoslav Sarov
+## Python Developer · Linux Engineer · AI Integration Specialist
 
-<p align="center">
-  <b>Python · Linux · AI Integration · Automation · Server Infrastructure</b><br/>
-  <sub>Open to freelance & remote work · Bratislava, Slovakia</sub>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/)
+[![Email](https://img.shields.io/badge/Email-sarovsvat%40gmail.com-red)](mailto:sarovsvat@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)](https://github.com/YOUR_USERNAME)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20freelance-22c55e)](mailto:sarovsvat@gmail.com)
 
-<p align="center">
-  <a href="mailto:sarovsvat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20freelance-22c55e?style=flat-square"/>
-</p>
+## 👨‍💻 About Me
 
----
+Developer specializing in Python scripting, Linux systems administration, and AI-powered automation. Hands-on experience in server infrastructure, networking, and building practical tools that solve real problems — from automation pipelines to AI API integrations and full-stack web applications.
 
-## About me
+- 🌍 Based in Bratislava, Slovakia
+- 📧 Contact: sarovsvat@gmail.com
+- 🎓 Applied Informatics at FEI STU Bratislava
+- 💬 Available in EN / SK / UA / RU
+- 🤝 Open to freelance, remote contracts, and part-time work
 
-I'm a developer specializing in Python scripting, Linux systems, and AI-powered automation. I have hands-on experience from server infrastructure work and I build practical tools that solve real problems — automation pipelines, API integrations, server setups, database design.
+## 🛠️ Tech Stack
 
-Currently studying Applied Informatics at FEI STU Bratislava alongside my freelance work.
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Available for remote projects. Async-friendly, fast turnaround, multilingual (EN / SK / UA / RU).
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
----
+### Infrastructure & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
 
-## 🛠 Tech stack
+### Data & AI
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat&logo=anthropic&logoColor=white)
 
-**Languages & scripting**
+## 🚀 Experience
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Server Support Engineer (Internship) | *July 2025 – August 2025*
 
-**Infrastructure & systems**
+- Monitored and maintained server infrastructure, ensuring system stability and uptime
+- Troubleshot technical issues across hardware and software layers
+- Gained hands-on experience with Linux system administration and network diagnostics
+- Assisted in configuring services and performing routine maintenance tasks
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Crew Member | McDonald's | *September 2025 – December 2025*
 
-**Frontend**
+- Operated efficiently in a high-pressure, fast-paced environment with strict quality standards
+- Developed strong multitasking, time management, and teamwork skills
+- Maintained consistent performance across food preparation and customer service workflows
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+## 💻 Projects
 
-**AI & cloud**
+### Cat-Themed Greeting Website
+- Custom HTML/CSS/JS interactive web experience with animated elements
+- CSS-drawn cat logo with GIF fallback, animated icon burst button, floating side elements
+- Video popup integration and layered CSS animations
+- Fully responsive design with custom background and asset management
 
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+### AI-Powered Automation Tools *(Python)*
+- Scripts integrating OpenAI / Claude API for task automation and workflow enhancement
+- CLI tools for data processing, parsing, and automated reporting
+- Lightweight bots and notification pipelines using Python + Bash
 
----
+### Database Schema Design Projects
+- Designed relational schemas using ER and Extended ER modeling
+- Applied normalization, weak entities, generalization/specialization hierarchies
+- Implemented and queried databases using MySQL and PostgreSQL
 
-## 💼 Freelance services
+## 💼 Freelance Services
 
-> Available for remote work. Async-friendly, multilingual (EN / SK / UA / RU).
-
-| Service | What I deliver |
+| Service | Description |
 |---|---|
+| 🎨 **Frontend Development** | Responsive websites and web apps — HTML/CSS/JS, React |
 | 🤖 **AI Integration** | Connect OpenAI / Claude API to your app, bot, or workflow |
-| 🐍 **Python scripting** | Automation scripts, data processing, CLI tools, scrapers |
-| 🖥️ **Server & VPS setup** | Configure Linux servers, install services, SSH hardening |
-| ⚙️ **Task automation** | Bash + Python pipelines, cron jobs, notifications, parsing |
-| 🗄️ **Database modeling** | Schema design, ER diagrams, SQL queries (MySQL, PostgreSQL) |
-| 🌐 **Network troubleshooting** | Diagnose connectivity, configure basic networking setups |
-| 🔒 **Basic security hardening** | Firewall rules, secure configs, audit checklists for small servers |
+| 🐍 **Python Scripting** | Automation scripts, data processing, CLI tools, scrapers |
+| 🖥️ **Server & VPS Setup** | Configure Linux servers, install services, SSH hardening |
+| ⚙️ **Task Automation** | Bash + Python pipelines, cron jobs, notifications, parsing |
+| 🗄️ **Database Modeling** | Schema design, ER diagrams, SQL queries (MySQL, PostgreSQL) |
+| 🌐 **Network Troubleshooting** | Diagnose connectivity, configure basic networking setups |
+| 🔒 **Security Hardening** | Firewall rules, secure configs, audit checklists for small servers |
 
----
-## 📈 GitHub stats
+## 🌟 Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
----
-## 🔥 Streak
+- **Cybersecurity**: CTF competitions, information security, ethical hacking (CyberGame.sk participant)
+- **Gaming**: Genshin Impact, Cyberpunk 2077 — strategic thinking, immersive systems
+- **Creative Tech**: Building interactive web experiences, UI experiments
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=torvalds&theme=default&hide_border=true"/>
-</p>
----
+## 🗣️ Languages
 
-## 🌐 Languages
-
-🇺🇦 Ukrainian — Native &nbsp;|&nbsp; 🇷🇺 Russian — Native &nbsp;|&nbsp; 🇸🇰 Slovak — B2 &nbsp;|&nbsp; 🇬🇧 English — B2
-
----
-
-## 📫 Hire me
-
-- **Email:** sarovsvat@gmail.com
-- **LinkedIn:** [sviatoslav-sarov](https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/)
-- **Open to:** Upwork · Fiverr · Direct contracts · Part-time remote
+- 🇺🇦 Ukrainian — Native
+- 🇷🇺 Russian — Native
+- 🇸🇰 Slovak — B2
+- 🇬🇧 English — B2
 
 ---
 
 <p align="center">
-  <sub>Building in public · Always shipping</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="center">💬 Feel free to reach out for freelance projects or collaboration!</p>
