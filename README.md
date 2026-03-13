@@ -3,20 +3,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/)
 [![Email](https://img.shields.io/badge/Email-sarovsvat%40gmail.com-red)](mailto:sarovsvat@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=snake7071&color=blueviolet&style=flat)](https://github.com/snake7071)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20freelance-22c55e)](mailto:sarovsvat@gmail.com)
 
-## 👨‍💻 About Me
+## About Me
 
 Developer specializing in Python scripting, Linux systems administration, and AI-powered automation. Hands-on experience in server infrastructure, networking, and building practical tools that solve real problems — from automation pipelines to AI API integrations and full-stack web applications.
 
-- 🌍 Based in Bratislava, Slovakia
-- 📧 Contact: sarovsvat@gmail.com
-- 🎓 Applied Informatics at FEI STU Bratislava
-- 💬 Available in EN / SK / UA / RU
-- 🤝 Open to freelance, remote contracts, and part-time work
+- Based in Bratislava, Slovakia
+- Contact: sarovsvat@gmail.com
+- Applied Informatics at FEI STU Bratislava
+- Available in EN / SK / UA / RU
+- Open to freelance, remote contracts, and part-time work
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat&logo=anthropic&logoColor=white)
 
-## 🚀 Experience
+## Experience
 
 ### Server Support Engineer (Internship) | *July 2025 – August 2025*
 
@@ -61,7 +61,7 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 - Developed strong multitasking, time management, and teamwork skills
 - Maintained consistent performance across food preparation and customer service workflows
 
-## 💻 Projects
+## Projects
 
 ### Cat-Themed Greeting Website
 - Custom HTML/CSS/JS interactive web experience with animated elements
@@ -79,46 +79,46 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 - Applied normalization, weak entities, generalization/specialization hierarchies
 - Implemented and queried databases using MySQL and PostgreSQL
 
-## 💼 Freelance Services
+## Freelance Services
 
 | Service | Description |
 |---|---|
-| 🎨 **Frontend Development** | Responsive websites and web apps — HTML/CSS/JS, React |
-| 🤖 **AI Integration** | Connect OpenAI / Claude API to your app, bot, or workflow |
-| 🐍 **Python Scripting** | Automation scripts, data processing, CLI tools, scrapers |
-| 🖥️ **Server & VPS Setup** | Configure Linux servers, install services, SSH hardening |
-| ⚙️ **Task Automation** | Bash + Python pipelines, cron jobs, notifications, parsing |
-| 🗄️ **Database Modeling** | Schema design, ER diagrams, SQL queries (MySQL, PostgreSQL) |
-| 🌐 **Network Troubleshooting** | Diagnose connectivity, configure basic networking setups |
-| 🔒 **Security Hardening** | Firewall rules, secure configs, audit checklists for small servers |
+| **Frontend Development** | Responsive websites and web apps — HTML/CSS/JS, React |
+| **AI Integration** | Connect OpenAI / Claude API to your app, bot, or workflow |
+| **Python Scripting** | Automation scripts, data processing, CLI tools, scrapers |
+| **Server & VPS Setup** | Configure Linux servers, install services, SSH hardening |
+| **Task Automation** | Bash + Python pipelines, cron jobs, notifications, parsing |
+| **Database Modeling** | Schema design, ER diagrams, SQL queries (MySQL, PostgreSQL) |
+| **Network Troubleshooting** | Diagnose connectivity, configure basic networking setups |
+| **Security Hardening** | Firewall rules, secure configs, audit checklists for small servers |
 
-## 🌟 Interests
+## Interests
 
-- **Cybersecurity**: CTF competitions, information security, ethical hacking (CyberGame.sk participant)
-- **Gaming**: Genshin Impact, Cyberpunk 2077 — strategic thinking, immersive systems
-- **Creative Tech**: Building interactive web experiences, UI experiments
+- **Reading**: fiction, science, tech — mostly whatever I can get through
+- **Movies & Series**: broad taste, always open to recommendations
+- **Music**: background fuel for coding sessions
 
-## 🗣️ Languages
+## Languages
 
-- 🇺🇦 Ukrainian — Native
-- 🇷🇺 Russian — Native
-- 🇸🇰 Slovak — B2
-- 🇬🇧 English — B2
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+- Ukrainian — Native
+- Russian — Native
+- Slovak — B2
+- English — B2
 
 ---
 
-<p align="center">💬 Feel free to reach out for freelance projects or collaboration!</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snake7071&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snake7071&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="center">Feel free to reach out for freelance projects or collaboration!</p>
