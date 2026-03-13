@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm Sviat 👋</h1>
 
 <p align="center">
-  <b>Applied Informatics · FEI STU Bratislava · Open to freelance & remote work</b><br/>
-  <sub>Python · Linux · AI Integration · Automation · Full-stack (learning)</sub>
+  <b>Python · Linux · AI Integration · Automation · Server Infrastructure</b><br/>
+  <sub>Open to freelance & remote work · Bratislava, Slovakia</sub>
 </p>
 
 <p align="center">
@@ -16,9 +16,11 @@
 
 ## About me
 
-2nd-year CS student at Slovak University of Technology, with real-world experience in server infrastructure from an internship. I build practical tools with Python, work comfortably in Linux environments, and I'm actively expanding into AI-integrated apps and full-stack development — the highest-demand skills in freelance right now.
+I'm a developer specializing in Python scripting, Linux systems, and AI-powered automation. I have hands-on experience from server infrastructure work and I build practical tools that solve real problems — automation pipelines, API integrations, server setups, database design.
 
-I take on small-to-medium freelance projects: automation, scripting, server setup, AI-powered tools. Fast, async-friendly, multilingual.
+Currently studying Applied Informatics at FEI STU Bratislava alongside my freelance work.
+
+Available for remote projects. Async-friendly, fast turnaround, multilingual (EN / SK / UA / RU).
 
 ---
 
@@ -30,6 +32,7 @@ I take on small-to-medium freelance projects: automation, scripting, server setu
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Infrastructure & systems**
 
@@ -37,18 +40,14 @@ I take on small-to-medium freelance projects: automation, scripting, server setu
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**AI & data (growing)**
+**AI & cloud**
 
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Currently learning**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
@@ -101,5 +100,5 @@ I take on small-to-medium freelance projects: automation, scripting, server setu
 ---
 
 <p align="center">
-  <sub>Student freelancer · Building in public · Always learning</sub>
+  <sub>Building in public · Always shipping</sub>
 </p>
