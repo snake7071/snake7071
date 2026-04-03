@@ -79,6 +79,7 @@ Ready-made GitHub Actions workflow: tests → lint → Docker build → push →
 
 ### Habit Tracker with GitHub Graph *(Node.js · React · PostgreSQL · Chart.js)*
 Habit tracker with activity visualization styled like a GitHub contribution graph. REST API, JWT auth, statistics dashboard.
+https://github.com/snake7071/Habit-Tracker-with-GitHub-Graph
 
 ### Open-Source Link Shortener *(Next.js · PostgreSQL · Prisma · Auth.js)*
 Link shortener with click analytics, QR codes, custom domains, and dashboard. Full CRUD, authorization, deployed and live.
