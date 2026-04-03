@@ -58,33 +58,15 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 
 ## Projects
 
-### GitHub Stats Dashboard *(Python · FastAPI · React · Recharts)*
-Enter a GitHub username — get full analytics: languages, activity, top repos, contribution patterns. Visualized in the browser via REST API.
-https://github.com/snake7071/GitHub-Stats-Dashboard
+### GitHub Stats Dashboard
 
-### Local AI Agent with Tools *(Python · Ollama / Claude API · Tool calling)*
-An agent with a toolset: web search, file operations, code execution, email sending. Chained tool calls with no external SaaS dependency.
-
-### RAG Chatbot for PDF Documents *(Python · FastAPI · LangChain · ChromaDB · OpenAI API)*
-Upload a PDF — ask questions about its contents. Chunking, embeddings, vector search, answers via LLM. Works with any technical documentation.
-
-### Infrastructure Monitor with Alerts *(Prometheus · Grafana · Docker Compose · Telegram Bot API)*
-Monitors CPU, RAM, disk, and latency across servers. Sends Telegram alerts on issues. Deployed with Docker Compose in one command.
-
-### CLI Security Audit Tool *(Python · nmap · requests · Rich CLI)*
-Command-line tool that checks a site for open ports, weak headers, vulnerable dependencies, and SSL issues. Generates an HTML report.
-https://github.com/snake7071/CLI-Security-Audit-Tool
-
-### CI/CD Template with Zero-Downtime Deploy *(GitHub Actions · Docker · Nginx · bash)*
-Ready-made GitHub Actions workflow: tests → lint → Docker build → push → blue-green deploy on VPS. Rollback in one command. Reusable template.
-
-### Habit Tracker with GitHub Graph *(Node.js · React · PostgreSQL · Chart.js)*
-Habit tracker with activity visualization styled like a GitHub contribution graph. REST API, JWT auth, statistics dashboard.
-https://github.com/snake7071/Habit-Tracker-with-GitHub-Graph
-
-### Open-Source Link Shortener *(Next.js · PostgreSQL · Prisma · Auth.js)*
-Link shortener with click analytics, QR codes, custom domains, and dashboard. Full CRUD, authorization, deployed and live.
-https://github.com/snake7071/Link-Shortener
+### Local AI Agent with Tools
+### RAG Chatbot for PDF Documents
+### Infrastructure Monitor with Alerts
+### CLI Security Audit Tool
+### CI/CD Template with Zero-Downtime Deploy
+### Habit Tracker with GitHub Graph
+### Open-Source Link Shortener
 
 ## Freelance Services
 
