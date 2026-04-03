@@ -60,13 +60,13 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 
 ### GitHub Stats Dashboard
 
-### Local AI Agent with Tools
-### RAG Chatbot for PDF Documents
-### Infrastructure Monitor with Alerts
-### CLI Security Audit Tool
-### CI/CD Template with Zero-Downtime Deploy
-### Habit Tracker with GitHub Graph
-### Open-Source Link Shortener
+- Local AI Agent with Tools
+- RAG Chatbot for PDF Documents
+- Infrastructure Monitor with Alerts
+- CLI Security Audit Tool
+- CI/CD Template with Zero-Downtime Deploy
+- Habit Tracker with GitHub Graph
+- Open-Source Link Shortener
 
 ## Freelance Services
 
