@@ -114,11 +114,7 @@ https://github.com/snake7071/Link-Shortener
 
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 ---
 
 <p align="center">Feel free to reach out for freelance projects or collaboration!</p>
