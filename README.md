@@ -113,14 +113,10 @@ https://github.com/snake7071/Link-Shortener
 - English — B2
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snake7071&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snake7071&layout=compact)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snake7071&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
