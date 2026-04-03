@@ -113,7 +113,7 @@ https://github.com/snake7071/Link-Shortener
 - English — B2
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
