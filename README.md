@@ -1,7 +1,7 @@
 # Sviatoslav Sarov
 ## Python Developer · Linux Engineer · AI Integration Specialist
 
-![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME)
+![trophy](https://github-profile-trophy.vercel.app/?username=snake7071)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/)
 [![Email](https://img.shields.io/badge/Email-sarovsvat%40gmail.com-red)](mailto:sarovsvat@gmail.com)
