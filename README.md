@@ -58,8 +58,7 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 
 ## Projects
 
-### GitHub Stats Dashboard
-
+- GitHub Stats Dashboard
 - Local AI Agent with Tools
 - RAG Chatbot for PDF Documents
 - Infrastructure Monitor with Alerts
