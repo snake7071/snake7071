@@ -81,6 +81,7 @@ Habit tracker with activity visualization styled like a GitHub contribution grap
 
 ### Open-Source Link Shortener *(Next.js · PostgreSQL · Prisma · Auth.js)*
 Link shortener with click analytics, QR codes, custom domains, and dashboard. Full CRUD, authorization, deployed and live.
+https://github.com/snake7071/Link-Shortener
 
 ## Freelance Services
 
