@@ -113,7 +113,7 @@ https://github.com/snake7071/Link-Shortener
 - English — B2
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=snake7071&show_icons=true)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
