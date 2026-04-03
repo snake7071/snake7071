@@ -113,7 +113,26 @@ https://github.com/snake7071/Link-Shortener
 - English — B2
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snake7071&layout=compact)
+name: Update Language Statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: stefvuck/github-profile-language-analytics@v1.1.0
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "leaderboard"
+          output_path: "stats"
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
