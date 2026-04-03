@@ -72,6 +72,7 @@ Monitors CPU, RAM, disk, and latency across servers. Sends Telegram alerts on is
 
 ### CLI Security Audit Tool *(Python · nmap · requests · Rich CLI)*
 Command-line tool that checks a site for open ports, weak headers, vulnerable dependencies, and SSL issues. Generates an HTML report.
+https://github.com/snake7071/CLI-Security-Audit-Tool
 
 ### CI/CD Template with Zero-Downtime Deploy *(GitHub Actions · Docker · Nginx · bash)*
 Ready-made GitHub Actions workflow: tests → lint → Docker build → push → blue-green deploy on VPS. Rollback in one command. Reusable template.
