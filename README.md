@@ -1,7 +1,6 @@
-# Sviatoslav Sarov
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sviatoslav+Sarov)](https://git.io/typing-svg)
 ## Python Developer · Linux Engineer · AI Integration Specialist
-
-![trophy](https://github-profile-trophy.vercel.app/?user=snake7071)
+![trophy](https://github-profile-trophy.vercel.app/?username=snake7071)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/)
 [![Email](https://img.shields.io/badge/Email-sarovsvat%40gmail.com-red)](mailto:sarovsvat@gmail.com)
