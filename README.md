@@ -113,7 +113,7 @@ https://github.com/snake7071/Link-Shortener
 - English — B2
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snake7071)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime Languages](https://raw.githubusercontent.com/<USER>/<REPO>/output/generated/languages.svg)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=snake7071&theme=radical" alt="GitHub Streak" />
