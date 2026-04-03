@@ -60,6 +60,7 @@ Developer specializing in Python scripting, Linux systems administration, and AI
 
 ### GitHub Stats Dashboard *(Python · FastAPI · React · Recharts)*
 Enter a GitHub username — get full analytics: languages, activity, top repos, contribution patterns. Visualized in the browser via REST API.
+https://github.com/snake7071/GitHub-Stats-Dashboard
 
 ### Local AI Agent with Tools *(Python · Ollama / Claude API · Tool calling)*
 An agent with a toolset: web search, file operations, code execution, email sending. Chained tool calls with no external SaaS dependency.
