@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sviatoslav+Sarov)](https://git.io/typing-svg)
 ## Python Developer · Linux Engineer · AI Integration Specialist
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sviatoslav-sarov-37472a3a2/)
 [![Email](https://img.shields.io/badge/Email-sarovsvat%40gmail.com-red)](mailto:sarovsvat@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=snake7071&color=blueviolet&style=flat)](https://github.com/snake7071)
