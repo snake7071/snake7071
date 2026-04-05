@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=snake7071&color=blueviolet&style=flat)](https://github.com/snake7071)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20freelance-22c55e)](mailto:sarovsvat@gmail.com)
 
-## About Me
+## About Me 
 
 Developer specializing in Python scripting, Linux systems administration, and AI-powered automation. Hands-on experience in server infrastructure, networking, and building practical tools that solve real problems — from automation pipelines to AI API integrations and full-stack web applications.
 
